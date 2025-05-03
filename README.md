@@ -1,19 +1,18 @@
 <!-- Banner image -->
-<img src="https://repository-images.githubusercontent.com/548647011/0d5bbf30-6fd5-4091-a11f-0bbf04a6c6ad" alt="Banner" style="width:100%;"/>
+<!-- <img src="https://repository-images.githubusercontent.com/548647011/0d5bbf30-6fd5-4091-a11f-0bbf04a6c6ad" alt="Banner" style="width:100%;"/> -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">Frontend Developer | MERN Stack Enthusiast | Passionate About Mapping & Scalable Web Apps</h3>
+<h1 align="center">Hi 👋, I'm Chandrashekar</h1>
+<h3 align="center">Web Developer | Frontend Developer | MERN Developer | Passionate in Learning</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
 - 🚀 Frontend Developer with 3+ years of experience building modern web apps using **React** and **Vue**  
-- 🧠 Currently focused on mastering **Data Structures & Algorithms** with **JavaScript**
+- 🧠 Focused on mastering **Data Structures & Algorithms** with **JavaScript**
 - 🛠️ Learning **Low-Level Design in JS** and advanced concepts in system architecture
-- 🌐 Actively exploring open-source projects in the **mapping domain** (Leaflet, Cesium, MapTiler)
-- 💼 Building a **service-based software company** and scaling real-world applications
 
+<!-- 
 ---
 
 ### 💡 Tech Stack
@@ -38,6 +37,7 @@
 
 ---
 
+
 ### 🗂️ Projects
 
 - 📍 **Live Tracking Dashboard** with React & Leaflet  
@@ -46,14 +46,7 @@
 - 🧭 Currently contributing to **open-source mapping tools** and building internal utilities
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" />
-</p>
-
+ -->
 ---
 
 ### 📫 Let's Connect
