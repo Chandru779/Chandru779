@@ -5,7 +5,7 @@
 
 - 🚀 3+ years building responsive web apps with **React** & **Vue**
 - 🧠 Practicing **Data Structures & Algorithms** using **JavaScript**
-- 🛠️ Learning **Low-Level Design in JavaScript** and system architecture
+- 🛠️ Learning **Low-Level Design** and system architecture
 
 
 ### 🗂️ Projects
