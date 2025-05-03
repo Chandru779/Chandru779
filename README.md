@@ -1,58 +1,35 @@
-<!-- Banner image -->
-<!-- <img src="https://repository-images.githubusercontent.com/548647011/0d5bbf30-6fd5-4091-a11f-0bbf04a6c6ad" alt="Banner" style="width:100%;"/> -->
-
-<h1 align="center">Hi 👋, I'm Chandrashekar</h1>
-<h3 align="center">Web Developer | Frontend Developer | MERN Developer | Passionate in Learning</h3>
-
----
+<h1 align="center">Hi 👋, I'm <strong>Chandrashekar</strong></h1>
+<h3 align="center">Frontend Developer · Web Developer · MERN Developer · Passionate Learner</h3>
 
 ### 🧑‍💻 About Me
 
-- 🚀 Frontend Developer with 3+ years of experience building modern web apps using **React** and **Vue**  
-- 🧠 Focused on mastering **Data Structures & Algorithms** with **JavaScript**
-- 🛠️ Learning **Low-Level Design in JS** and advanced concepts in system architecture
-
-<!-- 
----
-
-### 💡 Tech Stack
-
-#### Languages & Frameworks  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-#### Mapping Libraries  
-![Leaflet](https://img.shields.io/badge/-Leaflet-black?style=flat-square&logo=leaflet)  
-![MapTiler](https://img.shields.io/badge/-MapTiler-black?style=flat-square&logo=mapbox)  
-![CesiumJS](https://img.shields.io/badge/-CesiumJS-black?style=flat-square&logo=cesium)
-
-#### Tools & Practices  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)  
-![Unit Testing](https://img.shields.io/badge/-Unit_Testing-black?style=flat-square&logo=jest)  
-![Problem Solving](https://img.shields.io/badge/-Problem_Solving-black?style=flat-square&logo=leetcode)
-
----
+- 🚀 3+ years building responsive web apps with **React** & **Vue**
+- 🧠 Practicing **Data Structures & Algorithms** using **JavaScript**
+- 🛠️ Learning **Low-Level Design in JavaScript** and system architecture
 
 
 ### 🗂️ Projects
 
-- 📍 **Live Tracking Dashboard** with React & Leaflet  
-- 🗺️ **3D Mapping Viewer** using CesiumJS + custom vector data layers  
-- 🌐 **Admin Panel** for real-time app management with React + MongoDB  
-- 🧭 Currently contributing to **open-source mapping tools** and building internal utilities
+- 📍 **Locating Map** – Built using **React + Leaflet**
+- 🗺️ **3D Mapping** – Created with **Nuxt + CesiumJS** and vector layers
+- 🌐 **Media Discovery** – Developed using **Next + Tailwindcss** for movie info
 
----
- -->
----
+### 📫 Connect with Me
 
-### 📫 Let's Connect
+<p>
+  <a href="https://myportfolio-ca.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/chandru-angadi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/chandru_s_a" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:chanduangadi779@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
----
+
