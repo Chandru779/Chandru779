@@ -1,5 +1,5 @@
 <!-- Banner image -->
-<img src="[https://your-banner-image-url.com/banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRDoEWh-QAEyRrQjkNmzNNSpXxIvpMpcnvzg&s)" alt="Banner" style="width:100%;"/>
+<img src="https://repository-images.githubusercontent.com/548647011/0d5bbf30-6fd5-4091-a11f-0bbf04a6c6ad" alt="Banner" style="width:100%;"/>
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">Frontend Developer | MERN Stack Enthusiast | Passionate About Mapping & Scalable Web Apps</h3>
